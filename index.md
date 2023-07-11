@@ -8,7 +8,7 @@ header:
     overlay_img: ./assets/img/sky.jpg
 ---
 
-## About Me
+<!-- ## About Me -->
 
 Welcome to my page! My name is Yebowen Hu. I am a Ph.D. student in the [Department of Computer Science](https://www.cs.ucf.edu/) at the [University of Central Florida](https://www.ucf.edu/). It's an honor to be co-adviced by [Prof. Fei Liu](https://www.cs.emory.edu/~fliu40/) from Emory University and [Prof. Hassan Foroosh](http://www.cs.ucf.edu/~foroosh/) from UCF. 
 {: style="text-align: justify;"}
