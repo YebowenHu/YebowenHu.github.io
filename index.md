@@ -5,15 +5,18 @@ permalink: /
 author_profile: true
 classes: wide
 header:
-    overlay_img: ./assets/img/sky.jpg
+    overlay_img: /assets/img/sky.jpg
 ---
 
 <!-- ## About Me -->
 
-Welcome to my page! My name is Yebowen Hu. I am a Ph.D. student in the [Department of Computer Science](https://www.cs.ucf.edu/) at the [University of Central Florida](https://www.ucf.edu/). It's an honor to be co-adviced by [Prof. Fei Liu](https://www.cs.emory.edu/~fliu40/) from Emory University and [Prof. Hassan Foroosh](http://www.cs.ucf.edu/~foroosh/) from UCF. 
+Welcome to my page! 
 {: style="text-align: justify;"}
 
-My research interests are mainly focus on Summarization and Large Language Models. It is interesting to explore future directions of summarization tech and task in the era of LLM. 
+My name is Yebowen Hu. I am a second-year Ph.D. student in the Department of Computer Science at the [University of Central Florida](https://www.ucf.edu/), coadviced by [Prof. Fei Liu](https://www.cs.emory.edu/~fliu40/) and [Prof. Hassan Foroosh](http://www.cs.ucf.edu/~foroosh/). 
+{: style="text-align: justify;"}
+
+My research interests are mainly focus on Summarization and Large Language Models. It is exciting to explore future directions of summarization tech and task in the era of LLMs. 
 {: style="text-align: justify;"}
 
 Before I join UCF, I received my M.S. degree from University of Florida, major in Electrical and Computer Engineering. I received my B.S. degree from Central South University, **Changsha China*, major in Electrical Automation. 
