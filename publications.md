@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: splash
 permalink: /publications/index.html
 title: Publications
 ---
