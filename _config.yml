@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "n
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "Huye's Profile"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Yebowen Hu"
@@ -108,7 +108,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Second-year PhD student research on Large Language Model (LLM) and Summarization tech."
   location         : "Seattle"
-  email            : "huye@knights.ucf.edu"
+  email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
