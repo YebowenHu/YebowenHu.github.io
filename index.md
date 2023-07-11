@@ -1,5 +1,6 @@
 ---
-layout: single
+layout: home
+author_profile: true
 ---
 
 - MeetingBank: A Benchmark Dataset for Meeting Summarization <br> Y Hu, T Ganter, H Deilamsalehy, F Dernoncourt, H Foroosh, F Liu; July 2023, Association for Computational Linguistics 2023, Toronto <br> [arXiv](https://arxiv.org/pdf/2305.17529.pdf)
