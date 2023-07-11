@@ -129,11 +129,13 @@ author:
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
 
+links:
+  - title: "Publications"
+    url: /
+
 # Site Footer
 footer:
   links:
-    - labe: "Publications"
-      url: /
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url:
