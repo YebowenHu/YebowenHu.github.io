@@ -1,11 +1,13 @@
 ---
 layout: single
 permalink: /
-
+excerpt: "With GPT, what will be the future challenge of summarization?"  
 author_profile: true
 classes: wide
 header:
     overlay_img: /assets/img/sky.jpg
+    overlay_filter: 0.5
+
 ---
 
 <!-- ## About Me -->
