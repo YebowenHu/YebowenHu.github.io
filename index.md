@@ -2,6 +2,7 @@
 layout: single
 permalink: /
 excerpt: "With GPT, what will be the future challenge of summarization?"  
+teaser: /assets/img/sky.jpg
 author_profile: true
 classes: wide
 header:
